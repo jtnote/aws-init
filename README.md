@@ -1,3 +1,3 @@
 # aws-init
 
-curl -L https://github.com/jtnote/aws-init/raw/master/main.sh | sudo bash
+curl -L https://raw.githubusercontent.com/jtnote/aws-init/master/main.sh | sudo bash
